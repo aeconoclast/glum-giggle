@@ -1,3 +1,6 @@
+layout: page
+title: "Free Mouse Clicks"
+permalink: /free-mouse-clicks
 # Free Mouse Clicks
 
 After I installed Ubuntu on the PC that I built, I found myself clicking on the mouse more often.
