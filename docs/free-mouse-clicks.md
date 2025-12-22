@@ -50,3 +50,6 @@ Ergonomics of my home setup was the last of my worries then.
 
 Building a PC during the time spent not working from home, was a rewarding task. PCs act as a platform.
 One of the tasks my PC let me do was the automation of the mouse click. There are many others, and I hope to talk about them in the future.
+ 
+## 22-12-2025 Update
+My additions have been [merged](https://github.com/ReimuNotMoe/ydotool/commit/708e96ff27e381a8c549418a9d34cdde12305317), and are now part of the [ydotool package](https://github.com/ReimuNotMoe/ydotool). Download and use ydotool from its original repository to enjoy rapid clicking!
