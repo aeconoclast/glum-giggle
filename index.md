@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Index File"
-permalink: /
+permalink: /index.html
 ---
 
 # Test Index File for Glum Giggle
