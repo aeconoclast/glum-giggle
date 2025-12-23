@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Free Mouse Clicks"
+title: "Index File"
 permalink: /
 ---
 
