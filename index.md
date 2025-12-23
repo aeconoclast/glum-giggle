@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Free Mouse Clicks"
+permalink: /
 ---
 
 # Test Index File for Glum Giggle
