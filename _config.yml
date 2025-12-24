@@ -32,6 +32,7 @@ domain: aeconoclast.github.io       # if you want to force HTTPS, specify the do
 url: https://aeconoclast.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /docs     # place folder name if the site is served in a subfolder
 
+repository: aeconoclast/glum-giggle
 
 # Build settings
 theme: jekyll-theme-tactile
